@@ -13,6 +13,11 @@ New Features:
 * [#651](https://github.com/ckeditor/ckeditor-dev/issues/651): Text pasted using [Paste from Word](https://ckeditor.com/cke4/addon/pastefromword) preservers indentation in paragraphs.
 * [#1176](https://github.com/ckeditor/ckeditor-dev/pull/1176): The [Balloon Panel](https://ckeditor.com/cke4/addon/balloonpanel) can be attached to selection instead of element.
 
+Fixed Issues:
+
+* [#1832](https://github.com/ckeditor/ckeditor-dev/issues/1832): Fixed: Drop doesn't always work in Edge.
+* [#1943](https://github.com/ckeditor/ckeditor-dev/issues/1943): Fixed: Dragged text disappears when dropped on Edge.
+
 API Changes:
 
 * [#2224](https://github.com/ckeditor/ckeditor-dev/issues/2224):  The [`CKEDITOR.tools.convertToPx`](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_tools.html#method-convertToPx) function now converts negative values.
