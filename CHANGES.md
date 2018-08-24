@@ -15,8 +15,9 @@ New Features:
 
 Fixed Issues:
 
-* [#1832](https://github.com/ckeditor/ckeditor-dev/issues/1832): Fixed: Drop doesn't always work in Edge.
-* [#1943](https://github.com/ckeditor/ckeditor-dev/issues/1943): Fixed: Dragged text disappears when dropped on Edge.
+* [#1832](https://github.com/ckeditor/ckeditor-dev/issues/1832): [Edge] Fixed: Drop doesn't always work.
+* [#1943](https://github.com/ckeditor/ckeditor-dev/issues/1943): [Edge] Fixed: Dragged text disappears when dropped.
+* [#2303](https://github.com/ckeditor/ckeditor-dev/issues/2303): [Edge] Fixed: Pasting with [Clipboard](https://ckeditor.com/cke4/addon/clipboard) plugin present throws error.
 
 API Changes:
 
