@@ -12,6 +12,7 @@ New Features:
 * [#706](https://github.com/ckeditor/ckeditor-dev/issues/706): Added different cursor style when selecting cells for [Table Selection](https://ckeditor.com/cke4/addon/tableselection) plugin.
 * [#651](https://github.com/ckeditor/ckeditor-dev/issues/651): Text pasted using [Paste from Word](https://ckeditor.com/cke4/addon/pastefromword) preservers indentation in paragraphs.
 * [#1176](https://github.com/ckeditor/ckeditor-dev/pull/1176): The [Balloon Panel](https://ckeditor.com/cke4/addon/balloonpanel) can be attached to selection instead of element.
+* [#1044](https://github.com/ckeditor/ckeditor-dev/pull/1044): [Widget dialog](https://ckeditor.com/cke4/addon/widget) [`show`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_dialog.html#event-show), [`hide`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_dialog.html#event-hide), [`ok`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_dialog.html#event-ok) events contains information about a widget instance for which a dialog is launched.
 
 API Changes:
 
